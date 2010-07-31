@@ -10,7 +10,7 @@ Url:		http://wiki.xfce.org/vala-bindings
 Source0:	http://archive.xfce.org/src/bindings/xfce4-vala/%{url_ver}/%{name}-%{version}.tar.bz2
 BuildRequires:  vala-devel
 BuildRequires:	exo-devel
-BuildRequires:	xfce4panel-devel
+BuildRequires:	libxfce4-panel-devel
 BuildRequires:	libxfce4menu-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
