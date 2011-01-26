@@ -3,7 +3,7 @@
 Summary:	Vala bindings for Xfce
 Name:		xfce4-vala
 Version:	4.6.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	LGPLv2+
 Group:		Development/Other
 Url:		http://wiki.xfce.org/vala-bindings
