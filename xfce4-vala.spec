@@ -8,7 +8,7 @@ Version:	4.10.3
 Release:	3
 License:	LGPLv2+
 Group:		Development/Other
-Url:		http://wiki.xfce.org/vala-bindings
+Url:		https://wiki.xfce.org/vala-bindings
 Source0:	http://archive.xfce.org/src/bindings/xfce4-vala/%{url_ver}/%{name}-%{version}.tar.bz2
 BuildRequires:	xfce4-dev-tools
 BuildRequires:  pkgconfig(libvala-0.18)
